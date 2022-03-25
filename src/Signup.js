@@ -34,4 +34,4 @@ const Signup = ({history}) => {
   );
 };
 
-// export default withRouter(Signup);
+export default withRouter(Signup);
